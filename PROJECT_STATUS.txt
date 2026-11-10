@@ -1,0 +1,5 @@
+TraductorPersonal_Android_0.4
+Proyecto fuente Android actualizado con corrección del comando de compilación del módulo app.
+Presupuesto: cero dólares obligatorios; sin suscripciones, tarjetas ni claves API de pago.
+No se ha ejecutado una compilación Android/Gradle en este entorno.
+La APK se genera mediante Android Studio o el workflow de GitHub Actions.
